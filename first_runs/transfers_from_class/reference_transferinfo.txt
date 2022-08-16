@@ -1,4 +1,4 @@
-/home/ubuntu/data/COLA_projects/first_runs/transfers_from_class/reference 50
+/home/ubuntu/data/COLA_projects/first_runs/reference 50
 data_transfer_z0.0.dat  0.0
 data_transfer_z0.084.dat  0.084
 data_transfer_z0.174.dat  0.174
